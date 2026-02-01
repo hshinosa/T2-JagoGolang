@@ -1,4 +1,4 @@
-# T2-JagoWithGolang
+# T2-JagoGolang
 
 ## Endpoint
 - **GET /** - Lihat semua endpoint

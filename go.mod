@@ -1,6 +1,6 @@
 module kasir-api
 
-go 1.25.5
+go 1.22
 
 require (
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
